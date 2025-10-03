@@ -61,7 +61,7 @@ createArray(3, "x"); // ['x', 'x', 'x']
 
 定義泛型的時候，可以一次定義多個型別引數：
 
-{% code title="swap" %}
+{% code title="" %}
 ```typescript
 function swap<T, U>(tuple: [T, U]): [U, T] {
   return [tuple[1], tuple[0]];
@@ -76,7 +76,7 @@ swap([7, "seven"]); // ['seven', 7]
 
 在函式內部使用泛型變數的時候，由於事先不知道它是哪種型別，所以不能隨意的操作它的屬性或方法：
 
-{% code title="loggingIdentity (error)" %}
+{% code title="" %}
 ```typescript
 function loggingIdentity<T>(arg: T): T {
   console.log(arg.length);
