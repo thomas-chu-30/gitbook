@@ -1,6 +1,7 @@
 # Table of contents
 
 * [😆 Javascript](README.md)
+* [test](test.md)
 
 ## JS Basic
 
