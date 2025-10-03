@@ -14,9 +14,9 @@
 
 
 
-<div align="center"><img src="broken-reference" alt=""></div>
+<div align="center"><img src="../.gitbook/assets/Dimensions-client.png" alt=""></div>
 
-<div align="center"><img src="broken-reference" alt=""></div>
+<div align="center"><img src="../.gitbook/assets/Dimensions-offset.png" alt=""></div>
 
 ## 獲取DOM的相關尺寸
 
